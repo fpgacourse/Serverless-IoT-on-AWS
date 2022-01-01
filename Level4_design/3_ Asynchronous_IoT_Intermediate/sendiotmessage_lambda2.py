@@ -1,4 +1,4 @@
-#Don't forget to add both 'ExecuteAPI' and SSM ("system') to your permissions as inline policys for this lambda function
+#Don't forget to add both 'ExecuteAPI' and "System Manager' to your permissions as inline policys for this lambda function
 
 import json
 import boto3
